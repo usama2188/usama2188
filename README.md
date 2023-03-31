@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Usama Rasheed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&usqp=CAU">
+
 
 - 🔭 I’m currently working on [AmitBooks](order.amitbooks.in)
 
@@ -11,9 +14,7 @@
 
 - 📫 How to reach me **usamarasheed2188@gmail.com**
 
-- ⚡ Fun fact [⚡ Fun fact](⚡ Fun fact)
-
-- Phone **+921524895**
+<p dir="auto"><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> (+92) 3001524895</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
