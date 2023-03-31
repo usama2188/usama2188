@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **usamarasheed2188@gmail.com**
 
-- 📱 How to contact me **(+92) 3001524895**
+- 📱 How to contact me **(+92) 3091524895**
 
 
 <h3 align="left">Connect with me:</h3>
