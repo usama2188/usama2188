@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F687289%2Fregular_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png&tbnid=tazbltm5VbHjMM&vet=12ahUKEwjk9KXWzoX-AhVHpicCHehuBWwQMygLegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fwww.toptal.com%2Ffront-end%2Ffront-end-design-principles&docid=D8JLyMPQg80FFM&w=1303&h=683&q=animated%20web%20developer%20master%20banner%20image&ved=2ahUKEwjk9KXWzoX-AhVHpicCHehuBWwQMygLegUIARDeAQ
 <h1 align="center">Hi 👋, I'm Usama Rasheed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&usqp=CAU">
@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **usamarasheed2188@gmail.com**
 
-<p dir="auto"><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> (+92) 3001524895</p>
+- 📱 How to contact me **(+92) 3001524895**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
